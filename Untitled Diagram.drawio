@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-02T12:13:58.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="S2OsGKDdnCm1ZyPpA5ay" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-02T12:14:56.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="rzq_m9-rg-tpZbJHLT0g" version="12.3.3" type="github" pages="1">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="865" dy="-362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -95,23 +95,23 @@
         <mxCell id="L5OPisyhlvLee5xW57fV-23" value="Description" style="swimlane;html=1;startSize=20;" vertex="1" parent="L5OPisyhlvLee5xW57fV-12">
           <mxGeometry x="350" y="20" width="225" height="1160" as="geometry"/>
         </mxCell>
-        <mxCell id="L5OPisyhlvLee5xW57fV-45" value="All models in CAT have to&#xa;be updated with correct&#xa;HS Code and correct&#xa;duty" style="text;html=1;" vertex="1" parent="L5OPisyhlvLee5xW57fV-23">
-          <mxGeometry x="15" y="195" width="160" height="70" as="geometry"/>
+        <mxCell id="L5OPisyhlvLee5xW57fV-45" value="All models in CAT have to&#xa;be updated with correct&#xa;HS Code and correct&#xa;duty" style="text;html=1;align=center;" vertex="1" parent="L5OPisyhlvLee5xW57fV-23">
+          <mxGeometry x="30" y="200" width="160" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="L5OPisyhlvLee5xW57fV-46" value="Filter out the model&#xa;code with 0 duty" style="text;html=1;" vertex="1" parent="L5OPisyhlvLee5xW57fV-23">
-          <mxGeometry x="30" y="364.5" width="130" height="40" as="geometry"/>
+        <mxCell id="L5OPisyhlvLee5xW57fV-46" value="Filter out the model&#xa;code with 0 duty" style="text;html=1;align=center;" vertex="1" parent="L5OPisyhlvLee5xW57fV-23">
+          <mxGeometry x="47.5" y="364.5" width="130" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="L5OPisyhlvLee5xW57fV-47" value="IF it&#39;s not updated in&#xa;CAT,&#xa;we have to update in&#xa;CAT, if it&#39;s updated&#xa;already in CAT, then raise&#xa;IT Ticket ro resend flow&#xa;from CAT to ECC.&#xa;Coninue the above steps&#xa;until all the model codes &#xa;has the duty in ECC" style="text;html=1;" vertex="1" parent="L5OPisyhlvLee5xW57fV-23">
-          <mxGeometry x="15" y="490" width="160" height="150" as="geometry"/>
+        <mxCell id="L5OPisyhlvLee5xW57fV-47" value="IF it&#39;s not updated in&#xa;CAT,&#xa;we have to update in&#xa;CAT, if it&#39;s updated&#xa;already in CAT, then raise&#xa;IT Ticket ro resend flow&#xa;from CAT to ECC.&#xa;Coninue the above steps&#xa;until all the model codes&amp;nbsp;&#xa;has the duty in ECC" style="text;html=1;align=center;" vertex="1" parent="L5OPisyhlvLee5xW57fV-23">
+          <mxGeometry x="32.5" y="490" width="160" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="L5OPisyhlvLee5xW57fV-48" value="Monthly activity, provide&#xa;reference customs value&#xa;amount on PNL (GAP&#xa;report)" style="text;html=1;" vertex="1" parent="L5OPisyhlvLee5xW57fV-23">
-          <mxGeometry x="20" y="650" width="160" height="70" as="geometry"/>
+        <mxCell id="L5OPisyhlvLee5xW57fV-48" value="Monthly activity, provide&#xa;reference customs value&#xa;amount on PNL (GAP&#xa;report)" style="text;html=1;align=center;" vertex="1" parent="L5OPisyhlvLee5xW57fV-23">
+          <mxGeometry x="32.5" y="650" width="160" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="L5OPisyhlvLee5xW57fV-49" value="Everytime payment duty and&#xa;taxes done, collecting all&#xa;document related togive to&#xa;finance" style="text;html=1;" vertex="1" parent="L5OPisyhlvLee5xW57fV-23">
-          <mxGeometry x="20" y="780" width="180" height="70" as="geometry"/>
+        <mxCell id="L5OPisyhlvLee5xW57fV-49" value="Everytime payment duty and&#xa;taxes done, collecting all&#xa;document related togive to&#xa;finance" style="text;html=1;align=center;" vertex="1" parent="L5OPisyhlvLee5xW57fV-23">
+          <mxGeometry x="22.5" y="780" width="180" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="L5OPisyhlvLee5xW57fV-50" value="Total realized Customs duty, plus&#xa;accure Cusroms duty (18% from&#xa;shipment value) on Gap report.&#xa;Comparing the reference Customs&#xa;duty with total realized Customs&#xa;duty." style="text;html=1;" vertex="1" parent="L5OPisyhlvLee5xW57fV-23">
-          <mxGeometry x="15" y="960" width="210" height="100" as="geometry"/>
+        <mxCell id="L5OPisyhlvLee5xW57fV-50" value="Total realized Customs duty, plus&#xa;accure Cusroms duty (18% from&#xa;shipment value) on Gap report.&#xa;Comparing the reference Customs&#xa;duty with total realized Customs&#xa;duty." style="text;html=1;align=center;" vertex="1" parent="L5OPisyhlvLee5xW57fV-23">
+          <mxGeometry x="7.5" y="960" width="210" height="100" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
